@@ -1,0 +1,15 @@
+C:\Users\szucs\OneDrive\Documents\source\hangman\bin\Debug\net6.0\hangman.exe
+C:\Users\szucs\OneDrive\Documents\source\hangman\bin\Debug\net6.0\hangman.deps.json
+C:\Users\szucs\OneDrive\Documents\source\hangman\bin\Debug\net6.0\hangman.runtimeconfig.json
+C:\Users\szucs\OneDrive\Documents\source\hangman\bin\Debug\net6.0\hangman.dll
+C:\Users\szucs\OneDrive\Documents\source\hangman\bin\Debug\net6.0\hangman.pdb
+C:\Users\szucs\OneDrive\Documents\source\hangman\obj\Debug\net6.0\hangman.csproj.AssemblyReference.cache
+C:\Users\szucs\OneDrive\Documents\source\hangman\obj\Debug\net6.0\hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szucs\OneDrive\Documents\source\hangman\obj\Debug\net6.0\hangman.AssemblyInfoInputs.cache
+C:\Users\szucs\OneDrive\Documents\source\hangman\obj\Debug\net6.0\hangman.AssemblyInfo.cs
+C:\Users\szucs\OneDrive\Documents\source\hangman\obj\Debug\net6.0\hangman.csproj.CoreCompileInputs.cache
+C:\Users\szucs\OneDrive\Documents\source\hangman\obj\Debug\net6.0\hangman.dll
+C:\Users\szucs\OneDrive\Documents\source\hangman\obj\Debug\net6.0\refint\hangman.dll
+C:\Users\szucs\OneDrive\Documents\source\hangman\obj\Debug\net6.0\hangman.pdb
+C:\Users\szucs\OneDrive\Documents\source\hangman\obj\Debug\net6.0\hangman.genruntimeconfig.cache
+C:\Users\szucs\OneDrive\Documents\source\hangman\obj\Debug\net6.0\ref\hangman.dll
